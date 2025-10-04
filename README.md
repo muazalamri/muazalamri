@@ -28,15 +28,15 @@
 ## Languages & Tools
 
 <p align="left">
-  <a href="https://www.arduino.cc/" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/></a>
-  <a href="https://www.cprogramming.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://www.linux.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
-  <a href="https://opencv.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/></a>
-  <a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://pytorch.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/></a>
-  <a href="https://www.tensorflow.org" target="blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/></a>
+  <a href="https://www.arduino.cc/" target="blank"><img src="arduino.svg" alt="Arduino" width="50" height="50"/></a>
+  <a href="https://www.cprogramming.com/" target="blank"><img src="c.svg" alt="C" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="blank"><img src="cpp.svg" alt="C++" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="blank"><img src="git.svg" alt="Git" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="blank"><img src="linux.svg" alt="Linux" width="50" height="50"/></a>
+  <a href="https://opencv.org/" target="blank"><img src="opencv.svg" alt="OpenCV" width="50" height="50"/></a>
+  <a href="https://www.python.org" target="blank"><img src="python.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://pytorch.org/" target="blank"><img src="pytorch.svg" alt="PyTorch" width="50" height="50"/></a>
+  <a href="https://www.tensorflow.org" target="blank"><img src="tf.svg" alt="TensorFlow" width="50" height="50"/></a>
   <a href="https://www.raspberrypi.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="50" height="50"/></a>
   <a href="https://www.freertos.org/" target="blank"><img src="https://www.freertos.org/images/freertos_logo.png" alt="FreeRTOS" width="50" height="50"/></a>
   <a href="https://www.adafruit.com/" target="blank"><img src="https://www.adafruit.com/favicon.ico" alt="Adafruit" width="50" height="50"/></a>
