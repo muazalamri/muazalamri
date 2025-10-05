@@ -33,14 +33,14 @@
   <a href="https://www.w3schools.com/cpp/" target="blank"><img src="cpp.svg" alt="C++" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="blank"><img src="git.svg" alt="Git" width="50" height="50"/></a>
   <a href="https://www.linux.org/" target="blank"><img src="linux.svg" alt="Linux" width="50" height="50"/></a>
-  <a href="https://opencv.org/" target="blank"><img src="opencv.svg" alt="OpenCV" width="50" height="50"/></a>
+  <a href="https://opencv.org/" target="blank"><img src="opencv.jpg" alt="OpenCV" width="50" height="50"/></a>
   <a href="https://www.python.org" target="blank"><img src="python.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://pytorch.org/" target="blank"><img src="torch.svg" alt="PyTorch" width="50" height="50"/></a>
   <a href="https://www.tensorflow.org" target="blank"><img src="tensorflow.svg" alt="TensorFlow" width="50" height="50"/></a>
-  <a href="https://www.raspberrypi.com/" target="blank"><img src="Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="50" height="50"/></a>
+  <a href="https://www.raspberrypi.com/" target="blank"><img src="Raspberry_Pi_Logo.jpg" alt="Raspberry Pi" width="50" height="50"/></a>
   <a href="https://www.freertos.org/" target="blank"><img src="freertos_logo.png" alt="FreeRTOS" width="50" height="50"/></a>
   <a href="https://www.adafruit.com/" target="blank"><img src="adafruit.ico" alt="Adafruit" width="50" height="50"/></a>
-  <a href="https://pyserial.readthedocs.io/" target="blank"><img src="https://pyserial.readthedocs.io/en/latest/_static/logo.svg" alt="PySerial" width="50" height="50"/></a>
+  <a href="https://pyserial.readthedocs.io/" target="blank"><img src="pyserial.jpg" alt="PySerial" width="50" height="50"/></a>
 </p>
 
 ---
