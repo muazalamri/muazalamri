@@ -37,7 +37,7 @@
   <a href="https://www.python.org" target="blank"><img src="python.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://pytorch.org/" target="blank"><img src="torch.svg" alt="PyTorch" width="50" height="50"/></a>
   <a href="https://www.tensorflow.org" target="blank"><img src="tensorflow.svg" alt="TensorFlow" width="50" height="50"/></a>
-  <a href="https://www.raspberrypi.com/" target="blank"><img src="Raspberry_PI_Logo.jpg" alt="Raspberry Pi" width="50" height="50"/></a>
+  <a href="https://www.raspberrypi.com/" target="blank"><img src="Raspberry_PI_logo.jpg" alt="Raspberry Pi" width="50" height="50"/></a>
   <a href="https://www.freertos.org/" target="blank"><img src="freertos_logo.png" alt="FreeRTOS" width="50" height="50"/></a>
   <a href="https://www.adafruit.com/" target="blank"><img src="adafruit.ico" alt="Adafruit" width="50" height="50"/></a>
   <a href="https://pyserial.readthedocs.io/" target="blank"><img src="pyserial.jpg" alt="PySerial" width="50" height="50"/></a>
