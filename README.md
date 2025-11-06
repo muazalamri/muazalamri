@@ -47,6 +47,7 @@
 
 ## GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazalamri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=muazalamri&show_icons=true&locale=en&theme=dark" alt="muazalamri" />
 </p>
