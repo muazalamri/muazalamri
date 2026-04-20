@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/eng_muaz_alamri" target="blank"><img src="https://img.shields.io/twitter/follow/eng_muaz_alamri?logo=twitter&style=for-the-badge" alt="eng_muaz_alamri" /></a>
-  <a href="https://linkedin.com/in/muaz-alamri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/c/optimizingcore" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://linkedin.com/in/kerneler" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
