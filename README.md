@@ -15,7 +15,7 @@
 
 - My first rule in coding: **Always chase the last 1% of efficiency.**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://muazalamri.github.io)
-- 📝 I regularly write articles on [LinkedIn](https://linkedin.com/in/muaz-alamri)
+- 📝 I regularly write articles on [LinkedIn](https://linkedin.com/in/kerneler)
 - 💬 Feel free to ask me **any question**.
 - 📫 Reach me at **Eng.muazalamri@gmail.com**
 - 📄 Know about my experiences [CV](https://muazalamri.github.io/cv_en.pdf)
